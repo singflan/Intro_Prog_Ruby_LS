@@ -1,0 +1,1 @@
+puts "The error tells you that the word shoes on line 3 is a variable or method that has not been defined. It's also possible it's outside the scope in which it's called."
