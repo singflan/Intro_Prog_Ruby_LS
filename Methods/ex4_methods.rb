@@ -1,0 +1,1 @@
+puts "The scream method will print nothing to the screen because the return method will prevent it from reaching the puts method"
