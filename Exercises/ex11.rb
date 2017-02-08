@@ -1,0 +1,1 @@
+I like the Ruby api, although it's not my absolute favorite. I like everything about it except the search feature. I haven't been able to figure out how to use if effectively yet. 
